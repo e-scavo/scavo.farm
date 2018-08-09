@@ -1,2 +1,2 @@
 # scavo.farm
-SCAVO - Fully Ecological Mining Farm
+SCAVO - Self-sustaining Crypto Mining Farm
